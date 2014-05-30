@@ -1,0 +1,15 @@
+TestSuite[{
+	"DefineRequiredOptions.mt"
+	,
+	"DeleteOptionDuplicates.mt"
+	,
+	"DelegateOptions.mt"
+	,
+	"PrependToOptions.mt"
+	,
+	"CopyFeatures.mt"
+	,
+	"SaveOptions.mt"
+	,
+	"RestoreOptions.mt"
+}]

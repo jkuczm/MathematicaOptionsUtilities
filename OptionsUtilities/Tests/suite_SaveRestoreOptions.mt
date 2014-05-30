@@ -1,0 +1,9 @@
+TestSuite[{
+	"Unit/SaveOptions.mt"
+	,
+	"Unit/RestoreOptions.mt"
+	,
+	"Acceptance/SaveRestoreOptions/basic.mt"
+	,
+	"Acceptance/SaveRestoreOptions/complex.mt"
+}]
